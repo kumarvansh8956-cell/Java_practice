@@ -8,6 +8,7 @@ public class input {
         int b = s.nextInt();
         System.out.println("The sum of the two numbers is: " + (a + b));
 
+        s.close();
 
     }
 }
